@@ -1,0 +1,12 @@
+? /Users/dotzo/Documents/Programming/exercism/haskell/sum-of-multiples/.stack-work/dist/x86_64-osx/Cabal-3.0.1.0/build/autogen/cabal_macros.h
+: hash: 58614b64e42ac3adc238e91e84836e21590a63305e4fa9b73fe7d1ae899c6427
+? /Users/dotzo/Documents/Programming/exercism/haskell/sum-of-multiples/.stack-work/dist/x86_64-osx/Cabal-3.0.1.0/build/autogen/Paths_sum_of_multiples.hs
+: hash: 5dc145d4b90d3f2180e10c6ca05df914b353509db7a7a09c7c1c646fd1c8a22f
+/Users/dotzo/Documents/Programming/exercism/haskell/sum-of-multiples/sum-of-multiples.cabal:
+  hash: dc2fdf00083cf3066fb90490a64375d25b3003e565ab49eb885f95f00253d8d5
+/Users/dotzo/Documents/Programming/exercism/haskell/sum-of-multiples/src/SumOfMultiples.hs:
+  hash: 327fd292dd19f27ea3c62d1f80fcaf59d933aba9415a2da032c0f61fc4ba1eda
+/Users/dotzo/Documents/Programming/exercism/haskell/sum-of-multiples/package.yaml:
+  hash: b0245edaf4cdf6c00e91390f508defb05ee30791fa9027306d8f75fd057f58c8
+/Users/dotzo/.stack/programs/x86_64-osx/ghc-8.8.4/lib/ghc-8.8.4/include/ghcversion.h:
+  hash: 297e8571427d670d413977834f5cdfc77cb89051d2f5b8302303c442346d15d0

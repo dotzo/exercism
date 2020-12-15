@@ -1,0 +1,12 @@
+/Users/dotzo/Documents/Programming/exercism/haskell/nucleotide-count/nucleotide-count.cabal:
+  hash: b9fe12b28ee71c1032009f2ef8a9b5c47017baf2bce8872d7b57b7cf32d3679b
+? /Users/dotzo/Documents/Programming/exercism/haskell/nucleotide-count/.stack-work/dist/x86_64-osx/Cabal-3.0.1.0/build/autogen/cabal_macros.h
+: hash: 6c96c25e44a0f68ee38f96435c1ce5e91bf5dec70cebcf28a54f9e639f2c6ef1
+? /Users/dotzo/Documents/Programming/exercism/haskell/nucleotide-count/.stack-work/dist/x86_64-osx/Cabal-3.0.1.0/build/autogen/Paths_nucleotide_count.hs
+: hash: 7e919e33594a28afa9f821c9624dd36798996aa0457b68fe1b773b9ffca18208
+/Users/dotzo/Documents/Programming/exercism/haskell/nucleotide-count/src/DNA.hs:
+  hash: 2331a611863db119239705690d124f498b004af710383de510cef66a1981fc1b
+/Users/dotzo/Documents/Programming/exercism/haskell/nucleotide-count/package.yaml:
+  hash: a9addd79532906f9ac795239d06df65176d38dadf35821e65efed3b7d93b19da
+/Users/dotzo/.stack/programs/x86_64-osx/ghc-8.8.4/lib/ghc-8.8.4/include/ghcversion.h:
+  hash: 297e8571427d670d413977834f5cdfc77cb89051d2f5b8302303c442346d15d0
