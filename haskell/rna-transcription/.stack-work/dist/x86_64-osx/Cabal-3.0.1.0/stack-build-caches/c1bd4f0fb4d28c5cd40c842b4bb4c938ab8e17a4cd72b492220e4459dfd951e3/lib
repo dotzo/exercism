@@ -1,0 +1,12 @@
+? /Users/dotzo/Documents/Programming/exercism/haskell/rna-transcription/.stack-work/dist/x86_64-osx/Cabal-3.0.1.0/build/autogen/Paths_rna_transcription.hs
+: hash: 179a0c29c93ed67de42a01fb782b4d0bab2dd3329d47e341cbc71ec7ca23e77e
+/Users/dotzo/Documents/Programming/exercism/haskell/rna-transcription/src/DNA.hs:
+  hash: 5c38acc0e2ca68e36b906d5630d66b8458489e842cfe15b20c9ad86d4516440d
+/Users/dotzo/Documents/Programming/exercism/haskell/rna-transcription/package.yaml:
+  hash: 2766671ccd85c1d682ec62ec3163fcf738c20004e444c5dceb6a3207c15c6dca
+/Users/dotzo/Documents/Programming/exercism/haskell/rna-transcription/rna-transcription.cabal:
+  hash: 835d2ed866e778b8a9d458821755cfea8ca2a4ad8d720603336bd72a44afdd88
+/Users/dotzo/.stack/programs/x86_64-osx/ghc-8.8.4/lib/ghc-8.8.4/include/ghcversion.h:
+  hash: 297e8571427d670d413977834f5cdfc77cb89051d2f5b8302303c442346d15d0
+? /Users/dotzo/Documents/Programming/exercism/haskell/rna-transcription/.stack-work/dist/x86_64-osx/Cabal-3.0.1.0/build/autogen/cabal_macros.h
+: hash: 115c7a85f3d8bf530e42a076efc92c68098bdeee3b887455a52ff18cf4b19ecb

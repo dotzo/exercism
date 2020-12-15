@@ -1,0 +1,12 @@
+/Users/dotzo/Documents/Programming/exercism/haskell/collatz-conjecture/package.yaml:
+  hash: e04e546810251e29e1b3a5bae523e047724b2e3b36899b4d241b93721a71f1a4
+/Users/dotzo/Documents/Programming/exercism/haskell/collatz-conjecture/collatz-conjecture.cabal:
+  hash: ecda6c05a25b952dcb2e18f4c5bd5e3baa9112e88395d0073dad1b259d38f77e
+? /Users/dotzo/Documents/Programming/exercism/haskell/collatz-conjecture/.stack-work/dist/x86_64-osx/Cabal-3.0.1.0/build/test/autogen/Paths_collatz_conjecture.hs
+: hash: 92f58bd7360641d1e337e61c115795c378268c8dc2d44887b17bcd4aab086d88
+? /Users/dotzo/Documents/Programming/exercism/haskell/collatz-conjecture/.stack-work/dist/x86_64-osx/Cabal-3.0.1.0/build/test/autogen/cabal_macros.h
+: hash: 540e09bebd3bfd2457539591b79609d5373e7ad36f674981daca5ee4ed8fad4d
+/Users/dotzo/Documents/Programming/exercism/haskell/collatz-conjecture/test/Tests.hs:
+  hash: 9cb2883b543df4fd593fa0cea764a0a66fe44e922793706335a54995db1da875
+/Users/dotzo/.stack/programs/x86_64-osx/ghc-8.8.4/lib/ghc-8.8.4/include/ghcversion.h:
+  hash: 297e8571427d670d413977834f5cdfc77cb89051d2f5b8302303c442346d15d0
