@@ -1,0 +1,12 @@
+/Users/dotzo/Documents/Programming/exercism/haskell/diamond/package.yaml:
+  hash: 7db421be549e8085766254a25898634d0a2321a1d4ff0f3a7ecf846a498aba1b
+/Users/dotzo/Documents/Programming/exercism/haskell/diamond/diamond.cabal:
+  hash: 143a7a9bc18da1464b59ce6362175b2178e9fc9ea495bd4536c3c35044535ed4
+? /Users/dotzo/Documents/Programming/exercism/haskell/diamond/.stack-work/dist/x86_64-osx/Cabal-3.0.1.0/build/test/autogen/Paths_diamond.hs
+: hash: b395a1f6b690cc3bd5387cd5713ab6daeeb8e30d0e5a358325234ab6777d523d
+? /Users/dotzo/Documents/Programming/exercism/haskell/diamond/.stack-work/dist/x86_64-osx/Cabal-3.0.1.0/build/test/autogen/cabal_macros.h
+: hash: 1b8c3686b2172a6f32aefa08078f25a566c14dad6fd8cbe1e0d6459c72a8084e
+/Users/dotzo/Documents/Programming/exercism/haskell/diamond/test/Tests.hs:
+  hash: 08198add8d0007e1b5141850535162c0fd8aad7e42ee049242571e4b7efb8c3f
+/Users/dotzo/.stack/programs/x86_64-osx/ghc-8.8.4/lib/ghc-8.8.4/include/ghcversion.h:
+  hash: 297e8571427d670d413977834f5cdfc77cb89051d2f5b8302303c442346d15d0
