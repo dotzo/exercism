@@ -1,0 +1,12 @@
+? /Users/dotzo/Documents/Programming/exercism/haskell/beer-song/.stack-work/dist/x86_64-osx/Cabal-3.0.1.0/build/autogen/Paths_beer_song.hs
+: hash: e00f4361f0f19db79945914669cae0ab48e445c997f37b02ccc8667f1aa7af96
+/Users/dotzo/Documents/Programming/exercism/haskell/beer-song/src/Beer.hs:
+  hash: 36ca2aff331210638d57357cb74899ee35c496b69883a8a8df81a17d8b90b71b
+/Users/dotzo/Documents/Programming/exercism/haskell/beer-song/beer-song.cabal:
+  hash: f565053fd584f360bb0e57a364d613d9b3355f579c7d81b14223d895e50729bb
+? /Users/dotzo/Documents/Programming/exercism/haskell/beer-song/.stack-work/dist/x86_64-osx/Cabal-3.0.1.0/build/autogen/cabal_macros.h
+: hash: 0341d316b4225b83ee9f5695429fc462be640c9580b3f90f9eed762a5fabe97d
+/Users/dotzo/Documents/Programming/exercism/haskell/beer-song/package.yaml:
+  hash: 92e53a0c28b8a46d95b2c6e41d61474722a8ccdf7eed688cb61f3a1768b5450d
+/Users/dotzo/.stack/programs/x86_64-osx/ghc-8.8.4/lib/ghc-8.8.4/include/ghcversion.h:
+  hash: 297e8571427d670d413977834f5cdfc77cb89051d2f5b8302303c442346d15d0

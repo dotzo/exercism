@@ -1,0 +1,12 @@
+/Users/dotzo/Documents/Programming/exercism/haskell/run-length-encoding/package.yaml:
+  hash: 4d67ed24829da51abc74c9176771f7bb6d3debb3acf945428f6f34d18c436c64
+? /Users/dotzo/Documents/Programming/exercism/haskell/run-length-encoding/.stack-work/dist/x86_64-osx/Cabal-3.0.1.0/build/autogen/Paths_run_length_encoding.hs
+: hash: cff246077ae8d7989c8a9b8f385fdbacc6fb1fe64204b0ce313365a9d0135332
+? /Users/dotzo/Documents/Programming/exercism/haskell/run-length-encoding/.stack-work/dist/x86_64-osx/Cabal-3.0.1.0/build/autogen/cabal_macros.h
+: hash: 819a7a2986f807bef8438a411db37aaa461b3fd2e1264546a7acc192f2c1b0f8
+/Users/dotzo/Documents/Programming/exercism/haskell/run-length-encoding/src/RunLength.hs:
+  hash: d09d33cafe531cea2a5a8f906cd3c342a035fb032d32e1b51e4d7d075c0063d5
+/Users/dotzo/Documents/Programming/exercism/haskell/run-length-encoding/run-length-encoding.cabal:
+  hash: fd6ea8d625507b3d85492ac22a10ae4acde889cd27d21a2a308a4818b4c681db
+/Users/dotzo/.stack/programs/x86_64-osx/ghc-8.8.4/lib/ghc-8.8.4/include/ghcversion.h:
+  hash: 297e8571427d670d413977834f5cdfc77cb89051d2f5b8302303c442346d15d0

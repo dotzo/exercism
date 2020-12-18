@@ -1,0 +1,12 @@
+/Users/dotzo/Documents/Programming/exercism/haskell/triangle/triangle.cabal:
+  hash: ba2c8f9a8ed782014f2c8c95b7ea4ec3431297a891328523a0867fd2ca10d153
+/Users/dotzo/Documents/Programming/exercism/haskell/triangle/package.yaml:
+  hash: 14d2b7f4158924f03b47bca95aafffa0ee857e32cfab9d0f879f24b1f8f8f093
+/Users/dotzo/Documents/Programming/exercism/haskell/triangle/test/Tests.hs:
+  hash: 29991809e9c0fe6037a99c379784d8de68ca1c4db58042cc1cd4e48d54b6348b
+? /Users/dotzo/Documents/Programming/exercism/haskell/triangle/.stack-work/dist/x86_64-osx/Cabal-3.0.1.0/build/test/autogen/cabal_macros.h
+: hash: 022596f88849acf1a1951e19418d1a25cccf024749929fae1caa592d93c839d8
+? /Users/dotzo/Documents/Programming/exercism/haskell/triangle/.stack-work/dist/x86_64-osx/Cabal-3.0.1.0/build/test/autogen/Paths_triangle.hs
+: hash: d87f95ae0503082a8448c0fecb94b1613afe42551e44544a06c4e69285482eb8
+/Users/dotzo/.stack/programs/x86_64-osx/ghc-8.8.4/lib/ghc-8.8.4/include/ghcversion.h:
+  hash: 297e8571427d670d413977834f5cdfc77cb89051d2f5b8302303c442346d15d0
