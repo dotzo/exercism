@@ -1,0 +1,12 @@
+? /Users/dotzo/Documents/Programming/exercism/haskell/list-ops/.stack-work/dist/x86_64-osx/Cabal-3.0.1.0/build/test/autogen/Paths_list_ops.hs
+: hash: 955ec2f13d7d7ff56fdeb2d2338e07363999ed42957b5f10c1d34f8d4f455358
+/Users/dotzo/Documents/Programming/exercism/haskell/list-ops/package.yaml:
+  hash: 7d5d1cb3d810cc527f9e55790f1926c39079ece033004b26d677b1b35632891e
+/Users/dotzo/Documents/Programming/exercism/haskell/list-ops/list-ops.cabal:
+  hash: 3fe3871f5d0ccc76080e1ef6f357c299492a829b58873125243f0fdd06ab3594
+? /Users/dotzo/Documents/Programming/exercism/haskell/list-ops/.stack-work/dist/x86_64-osx/Cabal-3.0.1.0/build/test/autogen/cabal_macros.h
+: hash: 383f6168da75b2592e2a11c41001b76b522cc59062988dc3c63e4243a46e1723
+/Users/dotzo/Documents/Programming/exercism/haskell/list-ops/test/Tests.hs:
+  hash: b9d505da85fea7ecb5998e84024e203e2333ef43ba5659f1dfce3117241838ce
+/Users/dotzo/.stack/programs/x86_64-osx/ghc-8.8.4/lib/ghc-8.8.4/include/ghcversion.h:
+  hash: 297e8571427d670d413977834f5cdfc77cb89051d2f5b8302303c442346d15d0

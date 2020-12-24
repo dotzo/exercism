@@ -1,0 +1,12 @@
+/Users/dotzo/Documents/Programming/exercism/haskell/anagram/src/Anagram.hs:
+  hash: fd2920259d99f872cdce6410202b29250c4fd6bfd153e8222b39bd88595dfc7a
+? /Users/dotzo/Documents/Programming/exercism/haskell/anagram/.stack-work/dist/x86_64-osx/Cabal-3.0.1.0/build/autogen/Paths_anagram.hs
+: hash: ceb77e643a543008e13847a556d533ccfac69fba58cd7eddbb470d41b29401b5
+/Users/dotzo/Documents/Programming/exercism/haskell/anagram/anagram.cabal:
+  hash: 9b405c42f04bffabf28e1d10277578b365ff57bc798c852f2294d99d41369141
+/Users/dotzo/Documents/Programming/exercism/haskell/anagram/package.yaml:
+  hash: 134502102f7727a6ac5eafc1bfb99ae3a18ecbde470198c9cdc80fecbe98fec7
+? /Users/dotzo/Documents/Programming/exercism/haskell/anagram/.stack-work/dist/x86_64-osx/Cabal-3.0.1.0/build/autogen/cabal_macros.h
+: hash: 000b5d6872a9e2e5bff3be7a0740f64430da2df0775e0648dc13fef6f0f26c18
+/Users/dotzo/.stack/programs/x86_64-osx/ghc-8.8.4/lib/ghc-8.8.4/include/ghcversion.h:
+  hash: 297e8571427d670d413977834f5cdfc77cb89051d2f5b8302303c442346d15d0
